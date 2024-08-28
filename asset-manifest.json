@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drumy-machine/static/css/main.4125cef0.css",
+    "main.js": "/drumy-machine/static/js/main.d4f0dfda.js",
+    "static/js/453.d6108bff.chunk.js": "/drumy-machine/static/js/453.d6108bff.chunk.js",
+    "index.html": "/drumy-machine/index.html",
+    "main.4125cef0.css.map": "/drumy-machine/static/css/main.4125cef0.css.map",
+    "main.d4f0dfda.js.map": "/drumy-machine/static/js/main.d4f0dfda.js.map",
+    "453.d6108bff.chunk.js.map": "/drumy-machine/static/js/453.d6108bff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4125cef0.css",
+    "static/js/main.d4f0dfda.js"
+  ]
+}
